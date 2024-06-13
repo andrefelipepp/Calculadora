@@ -6,7 +6,7 @@
 <p>Este projeto é uma calculadora web moderna e interativa, desenvolvida para realizar operações aritméticas básicas de forma simples e eficiente.</p>
 
 <ul>
-  <li>Veja o projeto: <a href="https://calculadora-andrefelipepps-projects.vercel.app/" target_black > Clique aqui</a> </li>
+  <li>Veja o projeto: <a href="https://calculadora-andrefelipepps-projects.vercel.app/" target="_black" > Clique aqui</a> </li>
 </ul>
 
 <h1>⚙️ Funcionalidades</h1>
